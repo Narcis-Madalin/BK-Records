@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622975272 source:c:\users\madalin\desktop\proiect p2 c++\testare#2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1622971672 source:c:\users\madalin\desktop\uvt\anul 1\sem 2\proiecte c++\proiect sp1 c++\testare#2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
